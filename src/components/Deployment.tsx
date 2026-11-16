@@ -1,5 +1,5 @@
 import { motion } from "motion/react";
-import { Cloud, Server, Rocket, Settings, ShieldCheck, Globe } from "lucide-react";
+import { Cloud, Server, Rocket, Settings, ShieldCheck } from "lucide-react";
 import SectionHeading from "./SectionHeading";
 
 const capabilities = [
