@@ -2,7 +2,7 @@
 
 A modern, responsive developer portfolio built with React, Vite, TypeScript, Tailwind CSS, and Motion.
 
-**Live Website:** [Add your Netlify URL here](https://your-site-name.netlify.app)
+**Live Website:** (https://nidhi-developer-portfolio.netlify.app/)
 
 ## Tech Stack
 
